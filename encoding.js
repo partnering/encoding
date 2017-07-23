@@ -245,8 +245,8 @@ CodingHandler.prototype.to = function(array, type, byteCoding) {
 	}
 };
 
-var encode = new CodingHangler();
+var encoder = new CodingHandler();
 
-module.exports = encode;
+module.exports = encoder;
 
 
