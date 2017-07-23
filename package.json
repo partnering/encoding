@@ -1,0 +1,13 @@
+{
+  "name": "encoding",
+  "version": "1.0.0",
+  "description": "String based communication encoding",
+  "main": "encoding.js",
+  "scripts": {
+  },
+  "author": "Antoine de Rengervé <antoine.derengerve@partnering.fr>",
+  "license": "LGPL v3.0",
+  "dependencies": {
+    "base-64": "0.1.0"
+  }
+}

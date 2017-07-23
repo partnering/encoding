@@ -1,0 +1,21 @@
+{
+  "name": "encoding",
+  "version": "1.0.1",
+  "homepage": "https://github.com/partnering/encoding",
+  "authors": [
+	"Antoine de Rengervé <antoine.derengerve@partnering.fr>"
+  ],
+  "description": "Polymer WebComponent for displaying DiyaOne sensor values graphically",
+  "main": "encoding.js",
+  "license": "LGPL v3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "base64": "O.1.0"
+  }
+}
